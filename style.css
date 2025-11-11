@@ -1,6 +1,6 @@
 body {
   font-family:Arial, sans-serif;
-  background: rgb(171, 170, 170);
+  background: #818ea1;
   display: flex;
   height: 100vh;
   align-items: center;
@@ -89,4 +89,5 @@ input:focus{
     font-size: 1rem;
     padding: 8px;
   }
+
 }
